@@ -68,11 +68,7 @@ const PanelDemo = () => {
 
     return (
         <div className="grid">
-            <div className="col-12">
-                <div className="card">
-                    <h5>Conclusion</h5>
-                </div>
-            </div>
+        
             <div className="col-12 md:col-12">
                 <div className="card">
                     <h5>Conclusion</h5>
@@ -86,6 +82,12 @@ const PanelDemo = () => {
                 </div>
                 <div className="card">
                     <h5>Referencias</h5>
+                    <p>https://www.misabogados.com.co/blog/que-es-la-legislacion-informatica</p>
+                    <p>https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-55462016000400827</p>
+                    <p>https://www.gob.mx/bienestar/acciones-y-programas/proteccion-de-datos-personales-313761</p>
+                    <p>https://support.google.com/legal/answer/3463239?hl=es</p>
+                    <p>https://indautor.gob.mx/</p>
+                    <p></p>
 
                 </div>
             </div>
